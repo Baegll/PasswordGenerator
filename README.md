@@ -1,2 +1,2 @@
 # PasswordGenerator
-Simple Password Generated based on user-specified fields
+Simple Password Generator using Python3, based on user-specified fields.
